@@ -1,5 +1,5 @@
 ### Hi there 👋, My nickname es lami10
-#### Browsing the world of computing science since begginning of time🛸.
+#### Browsing the world of computing science since begginning of time. 🛸
 
 <!--
 **dijavaji/dijavaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
