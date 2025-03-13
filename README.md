@@ -1,4 +1,4 @@
-### Hi there 👋, My nickname es lami2
+### Hi there 👋, My nickname is lami2
 #### Browsing the world of computing science since begginning of time. 🛸
 
 <!--
